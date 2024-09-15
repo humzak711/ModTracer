@@ -5,3 +5,6 @@ ModTracer Finds Hidden Linux Kernel Rootkits and then make visible again.
 
 
 Another way to make an LKM visible is using the imperius trick: https://github.com/MatheuZSecurity/Imperius
+
+Join in Rootkit Researchers Group
+https://discord.gg/66N5ZQppU7
